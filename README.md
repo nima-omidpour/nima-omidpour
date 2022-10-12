@@ -98,18 +98,25 @@
       data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D"
       style="max-width: 100%"
   /></a>
-   
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://user-images.githubusercontent.com/87564823/195390141-8b58d996-e105-4e26-87eb-11f91cab06fb.png"
+    ><img
+      src="https://user-images.githubusercontent.com/87564823/195390141-8b58d996-e105-4e26-87eb-11f91cab06fb.png"
+      alt="nuxtjs"
+      data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D"
+      style="max-width: 144px"
+  /></a>
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
     href="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
-  >
-    <img
+    ><img
       src="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
       data-canonical-src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"
       style="max-width: 100%"
-    />
-  </a>
+  /></a>
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
@@ -120,3 +127,4 @@
       style="max-width: 100%"
   /></a>
 </div>
+
