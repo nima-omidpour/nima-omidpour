@@ -92,17 +92,7 @@
       data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D"
       style="max-width: 100%"
   /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="#"
-  >
-    <img
-      src="https://user-images.githubusercontent.com/87564823/195390141-8b58d996-e105-4e26-87eb-11f91cab06fb.png"
-      alt="nuxtjs"
-      style="max-width: 144px; height: 27px"
-    />
-  </a>
+   
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
