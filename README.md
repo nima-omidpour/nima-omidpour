@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" dir="auto">
+<div align="left">
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
@@ -79,15 +79,7 @@
       data-canonical-src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white"
       style="max-width: 100%"
   /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://camo.githubusercontent.com/f2eeefcbbc5279ab4f47b81d16b4d2954746111d8be0fca6947433b92a29ae28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4772617068516c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/f2eeefcbbc5279ab4f47b81d16b4d2954746111d8be0fca6947433b92a29ae28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4772617068516c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"
-      data-canonical-src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white"
-      style="max-width: 100%"
-  /></a>
+
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
@@ -95,6 +87,26 @@
     ><img
       src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465"
       data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white"
+      style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844"
+    ><img
+      src="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844"
+      alt="Vue.js"
+      data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D"
+      style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844"
+    ><img
+      src="https://user-images.githubusercontent.com/87564823/195390141-8b58d996-e105-4e26-87eb-11f91cab06fb.png"
+      alt="Vue.js"
+      data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D"
       style="max-width: 100%"
   /></a>
   <a
