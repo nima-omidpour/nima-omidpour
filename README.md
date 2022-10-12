@@ -102,12 +102,12 @@
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
-    href="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844"
+    href="https://user-images.githubusercontent.com/87564823/195390141-8b58d996-e105-4e26-87eb-11f91cab06fb.png""
     ><img
       src="https://user-images.githubusercontent.com/87564823/195390141-8b58d996-e105-4e26-87eb-11f91cab06fb.png"
-      alt="Vue.js"
+      alt="nuxtjs"
       data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D"
-      style="max-width: 100%"
+      style="max-width: 144px"
   /></a>
   <a
     target="_blank"
