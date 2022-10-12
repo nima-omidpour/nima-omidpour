@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm nima</h1>
-<h3 align="center">I am a Frontend Web Developer.Started my career with some freelace project and wroked around a year in companay. About My personality,I too much intereted to learining new technologies and think about new idea that slove people problems</h3>
+<h3 align="center">I am a Frontend Web Developer.Started my career with some freelace project and wroked around a year in companay. About My personality,I am too much intereted to learining new technologies and thinking and finding new idea that sloves people problems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
