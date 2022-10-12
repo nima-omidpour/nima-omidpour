@@ -21,6 +21,6 @@
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat"><img alt="mysql" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" style="max-width: 100%;"></a>  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=#4FC08D"><img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=#4FC08D" style="max-width: 100%;"></a>  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat"><img alt="mysql" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" style="max-width: 100%;"></a>  
- 
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MySQL-4479A1?logo=Nuxt.js&logoColor=black&style=for-the-badge"><img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=Nuxt.js&logoColor=black&style=for-the-badge" style="max-width: 100%;"></a>  
 </div>
 
