@@ -100,7 +100,7 @@
     <img
       src="https://user-images.githubusercontent.com/87564823/195390141-8b58d996-e105-4e26-87eb-11f91cab06fb.png"
       alt="nuxtjs"
-      style="max-width: 144px; height: 27px"
+      
     />
   </a>
   <a
