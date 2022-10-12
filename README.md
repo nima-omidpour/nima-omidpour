@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12803
-Fork on GitHub
-3270
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm nima</h1>
 <h3 align="center">I am a Frontend Web Developer.Started my career with some freelace project and wroked around a year in companay. About My personality,I too much intereted to learining new technologies and think about new idea that slove people problems</h3>
 
