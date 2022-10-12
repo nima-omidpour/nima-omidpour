@@ -12,7 +12,7 @@
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
- <!-- <div align="center" dir="auto">
+ <div align="center" dir="auto">
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
