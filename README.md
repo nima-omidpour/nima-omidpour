@@ -10,13 +10,13 @@
 
 <div align="left">
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://img.shields.io/badge/Nuxt.js-ColourCode?logo=Nuxt.js&logoColor=white&style=#00DC82"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
+      src="https://img.shields.io/badge/Nuxt.js-ColourCode?logo=Nuxt.js&logoColor=white&style=#00DC82"
+      alt="nuxt.js"
       width="40"
       height="40"
     />
